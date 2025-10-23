@@ -1,6 +1,6 @@
 ## Robotic Arm (src layout)
 
-![Robotic arm demo](images_(ignore)/Screenshot 2025-10-22 at 22.52.18.png)
+![Robotic arm demo](<images_(ignore)/Screenshot 2025-10-22 at 22.52.18.png>)
 
 N-DOF inverse kinematics with calibration helpers and 3D matplotlib visualization.
 
